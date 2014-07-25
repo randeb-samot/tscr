@@ -1,2 +1,0 @@
-package type
-import "testing"
